@@ -1,6 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/user-attachments/assets/dc14f814-ffe3-4498-94d9-a95dda9e467c" />
-" />
-" height="175px"/></a>
+<img width="200" height="144" alt="image" src="https://github.com/user-attachments/assets/e8e833a8-2325-4a08-a73f-caa2622c5976" />
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khadiga</h1>
 <h3 align="center">I'm a flutter developer from egypt.</h3>
