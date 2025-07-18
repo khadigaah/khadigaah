@@ -26,7 +26,6 @@
   <img  align="center" alt="Isa-firebase" height="45" width="55" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
    <img  align="center" alt="Isa-JavaScript" height="45" width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <img  align="center" alt="Isa-Python" height="45" width="55" src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a> 
-      <img  align="center" alt="Isa-VSCode" height="45" width="55" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
         <img  align="center" alt="Isa-VSCode" height="45" width="55" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
           <img  align="center" alt="Isa-Node.js" height="45" width="55" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
    
