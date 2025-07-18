@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/3f709348-a36d-4b04-8eb7-058fa35fe109" />
+<a href="#"><img width="100%" height="auto" src="https://github.com/user-attachments/assets/dc14f814-ffe3-4498-94d9-a95dda9e467c" />
+" />
 " height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khadiga</h1>
