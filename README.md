@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m currently focused on **building production-ready mobile apps** with Flutter & React Native.
+- 🔭 I’m currently focused on **building production-ready mobile apps** with Flutter & AI
 - 🌱 Expanding knowledge in **Data Structures, Algorithms, Clean Architecture, and Node.js for backend development.**
 - 👩‍💻 Interested in **mobile UX/UI best practices and scalable backend solutions.**
 - 👯 Open to **collaborating on Open Source projects**.
@@ -32,7 +32,6 @@
    
 ## 📱 Featured Projects
 - **Chat App:** A real-time chat application built with Flutter and Firebase.
-- **Ghared App:** A social media application built using React Native with Expo for creating and sharing posts. [https://github.com/khadigaah/Ghard]
 - **Notes App:** A Flutter application for note-taking, built with Bloc State Management and MVVM architecture.
 - **Backend API:** RESTful API built with Node.js and Express.
   
