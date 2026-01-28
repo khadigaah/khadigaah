@@ -6,52 +6,53 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />, I'm Khadiga
 </h1>
 
-<h3 align="center">Flutter Developer from Egypt • Building mobile apps & backend APIs</h3>
+<h3 align="center">Backend Developer (Python) • Building REST APIs with FastAPI & Docker</h3>
 
 <br/>
 
 ## 👩‍💻 About Me
-- 🔭 Currently focused on building **production-ready Flutter apps** with clean, maintainable architecture.
-- 🧠 Learning & applying **Data Structures, Algorithms, and Clean Architecture**.
-- ⚙️ Expanding into **backend development** (Node.js / Express) and **API-driven systems**.
-- 🎨 Interested in **mobile UX/UI best practices** and scalable product experiences.
-- 👯 Open to collaborating on **open-source projects** and real-world products.
-- 📩 Reach me: **khadiigahany@gmail.com**
+- 🔭 Currently building **production-ready backend APIs** using **FastAPI**.
+- 🗄️ Working with **SQLAlchemy** and clean data models for scalable applications.
+- 🔐 Implementing authentication with **JWT** and secure password hashing.
+- 🧪 Writing automated tests using **Pytest**.
+- 🐳 Containerizing projects with **Docker** and **Docker Compose** for consistent environments.
+- 📩 Reach me: <a href="mailto:khadiigahany@gmail.com">khadiigahany@gmail.com</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/khadijahany/" target="_blank">linkedin.com/in/khadijahany</a>
 
 ---
 
 ## 🧰 Tech Stack
-### Mobile
-- Flutter • Dart • Bloc (State Management) • MVVM • Clean Architecture
-
 ### Backend
-- Node.js • Express • REST APIs  
-- Python • FastAPI (learning / building)
+- Python • FastAPI • Pydantic
+- SQLAlchemy • SQLite (and ready for PostgreSQL)
+- JWT (python-jose) • Passlib (bcrypt)
+- Pytest
 
-### Tools & Platforms
-- Git & GitHub • Firebase • Docker (learning) • VS Code
+### DevOps / Tools
+- Docker • Docker Compose
+- Git & GitHub • VS Code
 
 ---
 
 ## 🚀 Featured Projects
-> Add links when available (GitHub repo / live demo / screenshots)
-
-- **Chat App (Flutter + Firebase)**  
-  Real-time messaging, authentication, and cloud storage.  
-  🔗 Repo: <i>Coming soon</i> • 📱 Demo: <i>Coming soon</i>
-
-- **Notes App (Flutter + Bloc + MVVM)**  
-  Clean architecture-based notes app with organized layers and state management.  
-  🔗 Repo: <i>Coming soon</i> • 📱 Demo: <i>Coming soon</i>
+> Add your repo links when you’re ready
 
 - **Book API (FastAPI + SQLAlchemy + JWT + Docker)**  
   Secure REST API for managing books with authentication and protected routes.  
+  ✅ JWT Login • ✅ CRUD • ✅ Tests • ✅ Dockerized  
+  🔗 Repo: <i>https://github.com/khadigaah/book-api-fastapi</i>
+
+- **Todo API (FastAPI + SQLAlchemy + JWT + Pytest + Docker)**  
+  A full backend API for a todo system with clean architecture-ready structure.  
+  ✅ Auth • ✅ CRUD • ✅ Testing • ✅ Docker Compose  
   🔗 Repo: <i>Coming soon</i>
 
-- **Backend API (Node.js + Express)**  
-  RESTful backend with structured routing, validation, and scalable patterns.  
-  🔗 Repo: <i>Coming soon</i>
+---
+
+## 📌 What I’m Working On Now
+- Building a clean, modular FastAPI structure (routers, services, schemas)
+- Improving Docker workflow for local development
+- Expanding testing coverage with Pytest
 
 ---
 
@@ -62,16 +63,22 @@
 <br/>
 
 <div align="center">
-  <img alt="Flutter" height="34" src="https://user-images.githubusercontent.com/68303716/177214981-d1c012e1-e7fa-4e7c-af26-27130b1a4284.svg" />
-  <img alt="Dart" height="34" src="https://user-images.githubusercontent.com/68303716/177214927-9e31c0ad-a5d9-4bbd-9605-92779e697724.svg" />
-  <img alt="Android" height="34" src="https://user-images.githubusercontent.com/68303716/177215226-a6b13561-9f7b-41dd-8b0f-7eea1236937c.svg" />
-  <img alt="iOS" height="34" src="https://user-images.githubusercontent.com/68303716/177215082-249f4005-401b-46ba-bb56-edf9b1c9bc2d.svg" />
-  <img alt="Git" height="34" src="https://img.icons8.com/color/48/000000/git.png" />
-  <img alt="Firebase" height="34" src="https://img.icons8.com/color/48/000000/firebase.png" />
-  <img alt="JavaScript" height="34" src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img alt="Python" height="34" src="https://img.icons8.com/color/48/000000/python--v1.png" />
-  <img alt="VS Code" height="34" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img alt="Node.js" height="34" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+  <!-- Python -->
+  <img alt="Python" height="40" src="https://img.icons8.com/color/48/000000/python--v1.png" />
+  <!-- FastAPI (simple fastapi logo) -->
+  <img alt="FastAPI" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
+  <!-- Docker -->
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <!-- SQLAlchemy -->
+  <img alt="SQLAlchemy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" />
+  <!-- PostgreSQL (optional, future) -->
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <!-- Git -->
+  <img alt="Git" height="40" src="https://img.icons8.com/color/48/000000/git.png" />
+  <!-- GitHub -->
+  <img alt="GitHub" height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
+  <!-- VS Code -->
+  <img alt="VS Code" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 </div>
 
 <br/>
