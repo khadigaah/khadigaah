@@ -35,7 +35,6 @@
 ---
 
 ## 🚀 Featured Projects
-> Add your repo links when you’re ready
 
 - **Book API (FastAPI + SQLAlchemy + JWT + Docker)**  
   Secure REST API for managing books with authentication and protected routes.  
