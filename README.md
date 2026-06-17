@@ -86,9 +86,6 @@
   <img alt="SQLAlchemy" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img alt="AWS" height="40" src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" />
   <img alt="Git" height="40" src="https://img.icons8.com/color/48/000000/git.png" />
   <img alt="GitHub" height="40" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
-  <img alt="HTML" height="40" src="https://pngdownload.io/png-image/html5-logo-png-symbol-for-web-development-transparent/" />
-  <img alt="VS Code" height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 </div>
