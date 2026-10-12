@@ -27,10 +27,6 @@ PostgreSQL • SQLite • MongoDB • SQLAlchemy • Git & GitHub • Docker •
 
 ## Featured Projects
 
-### QA Test Portfolio  *(coming soon)*
-Test cases, bug reports, and a Postman collection for a real application.
-🔗 [Link here]
-
 ### Event Planner API (FastAPI + MongoDB + Beanie)
 Async REST API for managing events and users with JWT authentication.
 Tests written with Pytest + HTTPX • CRUD • Dockerized
