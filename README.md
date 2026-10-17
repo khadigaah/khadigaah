@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khadiga 👋</h1>
 
 <h3 align="center">
-Python Developer moving into Software QA • API Testing • Pytest • Flutter
+Python Backend Developer | FastAPI, Flask & Django | API Testing (Pytest)
 </h3>
 
 ---
