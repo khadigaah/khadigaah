@@ -40,10 +40,6 @@ REST API for managing books with authentication and protected routes.
 JWT Login • CRUD • Tests • Dockerized
  https://github.com/khadigaah/book-api-fastapi
 
-### FastAPI Production API (FastAPI + PostgreSQL + SQLModel + Celery + Docker)
-REST API with JWT authentication. In progress: Celery background tasks and cloud deployment.
- https://github.com/khadigaah/fastapi-production-api
-
 ### AI Code Debugger (Flask + OpenAI API + Stripe)
 Web tool that detects bugs in submitted code and returns fixes with explanations.
 OpenAI Integration • Stripe Payments • SQLite
