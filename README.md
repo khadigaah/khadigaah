@@ -33,25 +33,25 @@ Flutter • Dart
 ### Event Planner API (FastAPI + MongoDB + Beanie)
 Async REST API for managing events and users with JWT authentication.
 Tests written with Pytest + HTTPX • CRUD • Dockerized
-🔗 https://github.com/khadigaah/fastapi-planner-api
+ https://github.com/khadigaah/fastapi-planner-api
 
 ### Book API (FastAPI + SQLAlchemy + JWT + Docker)
 REST API for managing books with authentication and protected routes.
 JWT Login • CRUD • Tests • Dockerized
-🔗 https://github.com/khadigaah/book-api-fastapi
+ https://github.com/khadigaah/book-api-fastapi
 
 ### FastAPI Production API (FastAPI + PostgreSQL + SQLModel + Celery + Docker)
 REST API with JWT authentication. In progress: Celery background tasks and cloud deployment.
-🔗 https://github.com/khadigaah/fastapi-production-api
+ https://github.com/khadigaah/fastapi-production-api
 
 ### AI Code Debugger (Flask + OpenAI API + Stripe)
 Web tool that detects bugs in submitted code and returns fixes with explanations.
 OpenAI Integration • Stripe Payments • SQLite
-🔗 https://github.com/khadigaah/ai-code-debugger
+ https://github.com/khadigaah/ai-code-debugger
 
 ### Django AI Quiz Generator (Django + ChatGPT API + PostgreSQL)
 Web app that generates custom quizzes from study material and lets users download them.
-🔗 https://github.com/khadigaah/django-ai-quiz-generator
+ https://github.com/khadigaah/django-ai-quiz-generator
 
 ---
 
