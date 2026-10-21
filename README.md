@@ -7,21 +7,24 @@ Python Backend Developer | FastAPI, Flask & Django | API Testing (Pytest)
 ---
 
 ## About Me
-- 5+ years of hands-on experience in mobile development (Flutter) and freelance projects, so I understand how apps behave from the inside.
-- Building REST APIs with FastAPI and Flask, and writing automated API tests with Pytest and HTTPX.
-- Currently transitioning into Software QA: manual testing, test cases, bug reports, and API testing with Postman.
-- Open to junior QA / test engineer roles (manual and API automation).
+- Python backend developer building REST APIs with FastAPI and Flask, with JWT authentication, PostgreSQL, MongoDB, and Docker.
+- Writing automated API tests with Pytest and HTTPX to verify endpoints and authentication.
+- Background in mobile development with Flutter, so I understand how client apps consume APIs.
+- Open to Python backend roles (on-site, hybrid, or remote).
 
 ## Skills
 
+**Backend**
+Python • FastAPI • Flask • Django • REST APIs • JWT Authentication • Pydantic • Celery
+
+**Databases & Tools**
+PostgreSQL • MongoDB • SQLite • SQLAlchemy • SQLModel • Docker • Git & GitHub
+
 **Testing**
-Manual Testing • Test Case Design • Bug Reporting • API Testing • Pytest • HTTPX • Postman
+Pytest • HTTPX • Postman • API Testing
 
-**Development**
-Python • FastAPI • Flask • Flutter • Dart • REST APIs
-
-**Data & Tools**
-PostgreSQL • SQLite • MongoDB • SQLAlchemy • Git & GitHub • Docker • Jira (learning)
+**Other**
+Flutter • Dart
 
 ---
 
@@ -37,21 +40,24 @@ REST API for managing books with authentication and protected routes.
 JWT Login • CRUD • Tests • Dockerized
 🔗 https://github.com/khadigaah/book-api-fastapi
 
-### AI Code Debugger (Flask + OpenAI API + Stripe)
-Tool that detects bugs in code and returns fixes with explanations.
-OpenAI Integration • Stripe Payments • SQLite
-🔗 https://github.com/khadigaah/ai-code-debugger
-
-### FastAPI API (FastAPI + PostgreSQL + SQLModel + Celery + Docker)
+### FastAPI Production API (FastAPI + PostgreSQL + SQLModel + Celery + Docker)
 REST API with JWT authentication. In progress: Celery background tasks and cloud deployment.
 🔗 https://github.com/khadigaah/fastapi-production-api
 
+### AI Code Debugger (Flask + OpenAI API + Stripe)
+Web tool that detects bugs in submitted code and returns fixes with explanations.
+OpenAI Integration • Stripe Payments • SQLite
+🔗 https://github.com/khadigaah/ai-code-debugger
+
+### Django AI Quiz Generator (Django + ChatGPT API + PostgreSQL)
+Web app that generates custom quizzes from study material and lets users download them.
+🔗 https://github.com/khadigaah/django-ai-quiz-generator
+
 ---
 
-## Currently Learning
-- Manual testing and writing test cases and bug reports
-- API testing with Postman
-- Expanding Pytest coverage on my own projects
+## Currently Working On
+- Celery background tasks and cloud deployment for my FastAPI production project
+- Expanding Pytest coverage across my projects
 
 ---
 
